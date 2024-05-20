@@ -1,33 +1,47 @@
-# TwoPointer
+# Two Pointer Algorithm Solutions
 
-Here are 15 practice questions to help you master this technique:
+This repository contains solutions for various problems implemented using the Two Pointer algorithm approach. Below is a brief description of each solution:
 
-Two Sum: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+1. **strStr() Function**:
+   - Language: Kotlin
+   - Description: Implements the `strStr()` function, which finds the index of the first occurrence of a substring (`needle`) in a string (`haystack`) using the Two Pointer algorithm.
 
-Three Sum: Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+2. **LinkedListCycle**:
+   - Language: C#
+   - Description: Detects whether a linked list contains a cycle using the Two Pointer algorithm.
 
-Container With Most Water: Given n non-negative integers a1, a2, ..., an, where each represents a point at coordinate (i, ai). n vertical lines are drawn such that the two endpoints of the line i is at (i, ai) and (i, 0). Find two lines, which, together with the x-axis forms a container, such that the container contains the most water.
+3. **MoveZero**:
+   - Language: C#
+   - Description: Moves all zeros present in an array to the end without changing the order of other elements, using the Two Pointer algorithm.
 
-Trapping Rain Water: Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+4. **MergeSortedArray**:
+   - Language: C#
+   - Description: Merges two sorted arrays into one sorted array using the Two Pointer algorithm.
 
-Sort Colors: Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
+5. **ReverseStringSolution**:
+   - Language: C#
+   - Description: Reverses a string using the Two Pointer algorithm.
 
-Longest Substring Without Repeating Characters: Given a string s, find the length of the longest substring without repeating characters.
+6. **Target**:
+   - Language: C#
+   - Description: Finds a pair of elements in an array whose sum equals a given target, using the Two Pointer algorithm.
 
-Minimum Window Substring: Given a string s and a string t, find the minimum window in s which will contain all the characters in t in complexity O(n).
+7. **ThreeSumSolution**:
+   - Language: C#
+   - Description: Finds all unique triplets in an array whose sum is zero, using the Two Pointer algorithm.
 
-Linked List Cycle II: Given a linked list, return the node where the cycle begins. If there is no cycle, return null.
+8. **TrapWater**:
+   - Language: C#
+   - Description: Calculates the amount of water that can be trapped between bars in an elevation map, using the Two Pointer algorithm.
 
-Merge Sorted Array: Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
+9. **numRescueBoats**:
+   - Language: Kotlin
+   - Description: Determines the minimum number of boats required to rescue people given their weights and a weight limit, using the Two Pointer algorithm.
 
-Remove Duplicates from Sorted Array: Given a sorted array nums, remove the duplicates in-place such that each element appears only once and returns the new length.
+10. **target**:
+    - Language: Java
+    - Description: Finds a pair of elements in an array whose sum equals a given target, using the Two Pointer algorithm.
 
-Move Zeroes: Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+Each solution showcases the application of the Two Pointer algorithm to solve specific problems efficiently.
 
-Valid Palindrome: Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
-
-Reverse Linked List II: Reverse a linked list from position m to n. Do it in one-pass.
-
-Intersection of Two Linked Lists: Write a program to find the node at which the intersection of two singly linked lists begins.
-
-Linked List Cycle: Given head, the head of a linked list, determine if the linked list has a cycle in it.
+Feel free to explore the solutions and contribute by adding more Two Pointer algorithm-based solutions for different problems!
