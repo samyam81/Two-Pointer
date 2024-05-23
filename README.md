@@ -45,6 +45,7 @@ This repository contains solutions for various problems implemented using the Tw
 11.**IntersectionOfLinkedList**:
 
    -Language: C#
+   
    -Description:This C# class finds the intersection node of two singly-linked lists by traversing them simultaneously until they meet or reach the end.
 
 Each solution showcases the application of the Two Pointer algorithm to solve specific problems efficiently.
