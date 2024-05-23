@@ -42,11 +42,9 @@ This repository contains solutions for various problems implemented using the Tw
     - Language: Java
     - Description: Finds a pair of elements in an array whose sum equals a given target, using the Two Pointer algorithm.
 
-11.**IntersectionOfLinkedList**:
-
-   -Language: C#
-   
-   -Description:This C# class finds the intersection node of two singly-linked lists by traversing them simultaneously until they meet or reach the end.
+11. **IntersectionOfLinkedList**:
+    - Language: C#
+    - Description: This C# class finds the intersection node of two singly-linked lists by traversing them simultaneously until they meet or reach the end.
 
 Each solution showcases the application of the Two Pointer algorithm to solve specific problems efficiently.
 
