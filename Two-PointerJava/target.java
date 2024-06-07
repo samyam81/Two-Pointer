@@ -2,6 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class target {
+    @SuppressWarnings("static-access")
     public static void main(String[] args) {
         int[] arr = {1, 2, 4, 8, 16};
         int target = 20;
